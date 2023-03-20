@@ -26,9 +26,9 @@ my-ideas-app notes:
 12. create client folder - copy package.json and webpack and src folder -> cd client and npm i and then try npm run build to check in folder public behaves as needed - so all build and bundler files go there
 13. npm i @fortawesome/fontawesome-free
 14. backend: npm i cors
-    renia@DESKTOP-HCFMJ9C MINGW64 ~/Desktop/traversy2023/my-ideas-app/client
+    renia@DESKTOP-HCFMJ9C MINGW64 ~/Desktop/my-ideas-app/client
     $ npm run dev
-    renia@DESKTOP-HCFMJ9C MINGW64 ~/Desktop/traversy2023/my-ideas-app
+    renia@DESKTOP-HCFMJ9C MINGW64 ~/Desktop/my-ideas-app
     $ npm run dev or npm start
 
     15. upload: npm run build for client-> fo fullstack -> https://render.com/
